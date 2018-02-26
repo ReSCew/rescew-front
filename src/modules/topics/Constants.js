@@ -1,0 +1,6 @@
+const FETCHED = 'TOPICS_LIST_FETCHED';
+const DELETED = 'TOPICS_DELETED_FROM_LIST';
+
+export default {
+  FETCHED, DELETED
+}
